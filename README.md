@@ -8,7 +8,7 @@ Some of my Projects:
 
 - Backtesting and Live Trading with Python. 
 - Crawling Library
-
+- Tool for writing enthusiast
 
 This github is for only Repo that help my work run smoothly. For more information about my project you can find me at @cyborgx0x
 <!---
